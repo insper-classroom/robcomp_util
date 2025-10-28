@@ -23,6 +23,7 @@ setup(
             "test_odom = robcomp_util.test_odom:main",
             "test_laser = robcomp_util.test_laser:main",
             "andar = robcomp_util.andar:main",
+            "goto = robcomp_util.goto:main",
         ],
     },
 )
