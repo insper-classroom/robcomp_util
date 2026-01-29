@@ -1,0 +1,1 @@
+Repositorio para scripts gerais e utilitários para a disciplina de Robótica Computacional.
