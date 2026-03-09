@@ -26,7 +26,8 @@ setup(
         'console_scripts': [
             'test_odom = robcomp_util.test_odom:main',
             'test_laser = robcomp_util.test_laser:main',
-
+            'andar = robcomp_util.andar:main',
+            'controle_andar = robcomp_util.controle_andar:main',
         ],
     },
 )
